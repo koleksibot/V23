@@ -25,7 +25,7 @@
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
-    "async": "^2.4.1",
+    "async": "^2.6.4",
     "axios": "^0.21.0",
     "brainly-scraper": "^1.0.3",
     "cfonts": "^2.9.0",
